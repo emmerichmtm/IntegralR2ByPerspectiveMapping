@@ -8,6 +8,7 @@ This directory contains a standalone LaTeX report and Python verification code f
 - `integral_r2_tchebycheff_perspective_report.pdf` -- compiled report.
 - `integral_r2_perspective.py` -- perspective-map implementation for 3-D absolute integral R2 and anchor-normalized improvement.
 - `r2_subdivision3d.py` -- subdivision-based exact evaluator used for verification.
+- 'sanity_checls.py` -- some sanity checks related to complexity proofs
 - `verification_results.csv` -- reproducibility table comparing perspective, subdivision, and Monte Carlo values.
 
 ## Mathematical setting
