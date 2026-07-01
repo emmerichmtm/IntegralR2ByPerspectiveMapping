@@ -1,6 +1,6 @@
 # Tchebycheff Shadow Perspective Mapping for Integral R2
 
-This directory contains a standalone A4/12pt LaTeX report and Python verification code for computing the integral R2 indicator by the Tchebycheff shadow perspective mapping.
+This directory contains a standalone LaTeX report and Python verification code for computing the integral R2 indicator by the Tchebycheff shadow perspective mapping.
 
 ## Files
 
